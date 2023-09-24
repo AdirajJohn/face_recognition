@@ -1,0 +1,6 @@
+train: D:/repository/face_recognition/YOLOv8/data/train/images
+val: D:/repository/face_recognition/YOLOv8/data/valid/images
+predict: D:/repository/face_recognition/YOLOv8/data/test/images
+
+nc: 1
+names: ["face"]
